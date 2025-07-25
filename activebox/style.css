@@ -10,9 +10,7 @@ body {
 
 }
 
-*,
-*: before,
-*: after {
+* {
     box-sizing: border-box;
 }
 
@@ -95,7 +93,7 @@ border-bottom: 1px solid #515369;
     height: 750px;
 padding-top: 100px;
     background: #31344e
-        url("./intro-bg.jpg") center no-repeat;
+        url("./img/intro-bg.jpg") center no-repeat;
     background-size: cover;
 
 }
