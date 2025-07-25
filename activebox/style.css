@@ -95,7 +95,7 @@ border-bottom: 1px solid #515369;
     height: 750px;
 padding-top: 100px;
     background: #31344e
-        url("img/intro-bg.jpg") center no-repeat;
+        url("./intro-bg.jpg") center no-repeat;
     background-size: cover;
 
 }
